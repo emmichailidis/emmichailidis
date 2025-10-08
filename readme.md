@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Manos Michailidis an aspiring developer exploring the world of programming.<br>Currently participating in a Full-Stack Web Development Bootcamp, and building cool projects along the way! I work as a Experienced Coffee Machine Technician. I’m passionate about solving complex technical challenges, leading teams, and continuously learning new technologies.<br><br>🌱 I’m currently working on leveling up my self in coding<br>💻 Interested in backend development, automation, and open-source<br>🎯 Goal: Contribute to projects and grow as a developer<br>🌐 Socials:
+👋 Hi, I’m Manos Michailidis — an aspiring developer exploring the exciting world of programming.
+Currently enrolled in a Full-Stack Web Development Bootcamp, I’m building real-world projects and sharpening my skills every day.
+
+☕ By day, I’m an Experienced Coffee Machine Technician, skilled in troubleshooting complex systems, leading teams, and finding practical solutions.
+💻 By night, I’m diving deep into backend development, automation, and open-source technologies.
+
+🌱 Always learning — I’m passionate about solving technical challenges and continuously improving.
+🎯 Goal: To contribute meaningfully to impactful projects and grow into a well-rounded developer.<br>🌐 Socials:
 
 
 ## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michailidismanos@gmail.com) 
